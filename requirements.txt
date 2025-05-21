@@ -1,0 +1,6 @@
+streamlit>=1.30
+tensorflow>=2.11
+opencv-python-headless
+numpy
+matplotlib
+Pillow
